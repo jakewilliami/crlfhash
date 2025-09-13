@@ -1,0 +1,13 @@
+[package]
+name = "crlfhash"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5.47", features = ["cargo", "wrap_help", "derive"] }
+digest = "0.10.7"
+infer = "0.19.0"
+md-5 = "0.10.6"
+sha1 = "0.10.6"
+sha2 = "0.10.9"
+tabular = "0.2.0"
