@@ -18,3 +18,7 @@ $ ./crlfhash -h
 ## Similar Projects
 
 The earlier sister package to `crlfhash` is [`xmemhash`](https://github.com/jakewilliami/crlfhash), which computes the hashes of the contents of archives, without writing the contents to disk.
+
+## Citation
+
+If your research depends on `crlfhash`, please consider giving us a formal citation: [`citation.bib`](./citation.bib).
